@@ -4,3 +4,5 @@ mochawesome.json
 mochawesome-report/mochawesome1.html
 data.js
 uitest_temp.js
+DS_Store
+yarn.lock
